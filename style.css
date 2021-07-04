@@ -1,0 +1,42 @@
+body{
+    font-family: 'Bona Nova', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: maroon;
+    
+}
+h2{
+    
+}
+.pf{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 2%;
+
+}
+.half img{
+    width: 70%;
+    
+}
+.click {
+    text-decoration: none;
+    color: rgb(31, 165, 228);
+    padding: 20px 40px 20px;
+    border-radius: 7px;
+    font-weight: 700;
+    background-image: linear-gradient(red,black);
+    
+}
+.bm{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
